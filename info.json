@@ -1,0 +1,13 @@
+{
+    "name": "IPad_Artist_Names",
+    "version": "1.0.0",
+    "title": "IPad Artist Names",
+    "author": "Muppet9010",
+    "contact": "",
+    "homepage": "https://mods.factorio.com/mod/IPad_Artist_Names",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "base >= 1.1"
+    ],
+    "description": "Rename everything as dictated by IPad Artist"
+}
