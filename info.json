@@ -1,6 +1,6 @@
 {
     "name": "IPad_Artist_Names",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "IPad Artist Names",
     "author": "Muppet9010",
     "contact": "",
@@ -9,5 +9,5 @@
     "dependencies": [
         "base >= 1.1"
     ],
-    "description": "Rename everything as dictated by IPad Artist"
+    "description": "Rename everything as dictated by IPad Artist (from JD-Plays twitch stream)"
 }
