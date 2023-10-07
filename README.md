@@ -2,4 +2,4 @@
 
 
 
-Rename everything as dictated by IPad Artist (JD-Plays daughter).
+Rename everything as dictated by IPad Artist (from JD-Plays twitch stream).
