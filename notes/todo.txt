@@ -1,1 +1,6 @@
-this folder is ignored by the _deployMe.bat script
+Add friendship pellets and peacekeeping missiles.
+Liberation shell (artillery).
+Freedom capsules (poison).
+Democratic events(?) (Nukes).
+Freedom shells (tank or artillery).
+Tranquility capsules (poison).
